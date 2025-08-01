@@ -20,7 +20,7 @@ This web app allows users to upload legal PDF documents and receive intelligent,
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ashwinipatil-ap/genai-projects/LegalDocAnalyser.git
+git clone https://github.com/ashwinipatil-ap/genai-projects.git
 cd LegalDocAnalyser
 ```
 
